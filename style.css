@@ -1,4 +1,4 @@
-article{
+.base{
     background-color: rgb(255, 255, 255);
     border: 2px solid rgb(0, 0, 0);
     border-radius: 3%;}
@@ -9,9 +9,8 @@ main{
     flex-direction: row;
     flex-wrap: wrap;
     align-content:space-between;}
-.rule_for_news{
-    display: flex;
-    align-content:center;
+body{
+    font-family: Calibri;
 }
 /*
 .div1{
